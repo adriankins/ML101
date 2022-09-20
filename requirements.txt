@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep 20 15:33:40 2022
+
+@author: SYSTEMarket
+"""
+
+streamlit==1.12.2
